@@ -1,6 +1,19 @@
-### Hi there, I'm [Stephen Podlogar](https://www.stephenpodlogar.com/) 👋
+<h1 align="center">Hi there, I'm Stephen Podlogar 👋</h1>
 
-Welcome to my GitHub profile!
+<p align="center">
+  Welcome to my GitHub profile! I'm a passionate web developer who's constantly learning and hoping to make a positive impact in the world, no matter how small.
+</p>
+
+<p align="center">
+  When I'm not coding you can find me watching sports, reading, or enjoying nature.
+</p>
+
+<div align="center">
+  
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephenpodlogar/)
+  [![Website Badge](https://img.shields.io/badge/stephenpodlogar.com-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.stephenpodlogar.com/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:stpodlogar@gmail.com)
+</div>  
 
 <!--
 **stpodlogar/stpodlogar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
