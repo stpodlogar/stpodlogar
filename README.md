@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm [Stephen Podlogar](https://www.stephenpodlogar.com/) 👋
+
+Welcome to my GitHub profile!
 
 <!--
 **stpodlogar/stpodlogar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
