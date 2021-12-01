@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/stpodlogar/stpodlogar/master/assets/GitHub-header.png "Header")](https://www.stephenpodlogar.com)
+
 <h1 align="center">Hi there, I'm Stephen Podlogar 👋</h1>
 
 <p align="center">
