@@ -13,8 +13,10 @@
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephenpodlogar/)
   [![Website Badge](https://img.shields.io/badge/stephenpodlogar.com-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.stephenpodlogar.com/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:stpodlogar@gmail.com)
-</div>  
+</div>
 
+<!-- | ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=stpodlogar&show_icons=true&theme=algolia) | ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stpodlogar&layout=compact&&theme=algolia) |
+| ------------- | ------------- | -->
 <!--
 **stpodlogar/stpodlogar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
